@@ -1,0 +1,4 @@
+data/ml-latest-small/*
+__pycache__/*
+.DS_Store
+.DS_Stores
